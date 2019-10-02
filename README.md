@@ -1,4 +1,4 @@
-#McDermott Group UI Test
+# McDermott Group UI Test
 
 Demo available at: https://mcdermott-ui-ux-test.pbuon.now.sh
 
